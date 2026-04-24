@@ -1,5 +1,5 @@
 # Criação de variáveis
-nome = "kayo"
+nome = "geraldo"
 idade = 10
 
 # Diferença de print e puts
